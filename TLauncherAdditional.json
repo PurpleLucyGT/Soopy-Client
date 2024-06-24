@@ -1,0 +1,714 @@
+{
+  "activateSkinCapeForUserVersion": false,
+  "skipHashsumValidation": false,
+  "additionalFiles": [],
+  "tlauncherVersion": 0,
+  "modpack": {
+    "modpackMemory": false,
+    "memory": 0,
+    "id": -29618206890200,
+    "name": "Soopy Client",
+    "favorite": false,
+    "version": {
+      "mods": [
+        {
+          "stateGameElement": "active",
+          "id": 10000020,
+          "name": "TL skin and cape",
+          "author": "tlauncher.org",
+          "uuid": "cd3ef9ea-62dd-11e6-b39e-002590a1379b",
+          "linkProject": "https://tlauncher.org",
+          "favorite": false,
+          "categories": [],
+          "picture": 73988,
+          "pictures": [
+            73989,
+            73990
+          ],
+          "lanName": "tl-skin-and-cape",
+          "version": {
+            "id": 11000372,
+            "name": "1.4",
+            "updateDate": 1573765200000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "d0483ac68cbeea22d6a2c46984c4cc7de4d3ce42",
+              "size": 193898,
+              "path": "mods/tlskincape1.12.2-1.4.jar",
+              "url": "/mods/10000020/11000372/tlskincape1.12.2-1.4.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 332992,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 52,
+            "name": "1.21"
+          },
+          "updated": 1718964217000,
+          "update": 1718964217000,
+          "downloadALL": 308502511,
+          "available": true,
+          "parser": false,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 9999999,
+          "name": "OptiFine",
+          "author": "OptiFine.net",
+          "uuid": "cd3ef9ea-62dd-11e6-b39e-002590a1379b",
+          "linkProject": "https://optifine.net",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            }
+          ],
+          "picture": 52103,
+          "pictures": [],
+          "lanName": "optifine",
+          "version": {
+            "id": 11001818,
+            "name": "OptiFine-1.12.2_HD_U_G5",
+            "updateDate": 1612558800000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "db971767e460269f2317bb5df57d8f522be65e2c",
+              "size": 2457427,
+              "path": "mods/OptiFine-1.12.2_HD_U_G5.jar",
+              "url": "/mods/9999999/11001818/OptiFine-1.12.2_HD_U_G5.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 106929,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 49,
+            "name": "1.20.4"
+          },
+          "updated": 1716029232000,
+          "update": 1716029232000,
+          "downloadALL": 65010004,
+          "available": true,
+          "parser": false,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 238222,
+          "name": "Just Enough Items (JEI)",
+          "author": "mezz",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/jei",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 821131,
+          "pictures": [
+            24074,
+            24069,
+            24089,
+            24081
+          ],
+          "lanName": "jei",
+          "version": {
+            "id": 5101347,
+            "name": "jei_1.12.2-4.16.1.1012",
+            "updateDate": 1707713185000,
+            "type": "beta",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "a6d04d7e161d9af5c0e7077f649e30815927f14a",
+              "size": 649218,
+              "path": "mods/jei_1.12.2-4.16.1.1012.jar",
+              "url": "/mods/238222/5101347/jei_1.12.2-4.16.1.1012.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 74909,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 52,
+            "name": "1.21"
+          },
+          "updated": 1718830800000,
+          "update": 1718830800000,
+          "downloadALL": 64136452,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 225608,
+          "name": "WorldEdit",
+          "author": "sk89q wizjany",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/worldedit",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 488610,
+          "pictures": [
+            19560
+          ],
+          "lanName": "worldedit",
+          "version": {
+            "id": 2941712,
+            "name": "worldedit-forge-mc1.12.2-6.1.10-dist",
+            "updateDate": 1587957313000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "17314bdab33678478af060d2156338ee34db8a09",
+              "size": 1479535,
+              "path": "mods/worldedit-forge-mc1.12.2-6.1.10-dist.jar",
+              "url": "/mods/225608/2941712/worldedit-forge-mc1.12.2-6.1.10-dist.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 16129,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 52,
+            "name": "1.21"
+          },
+          "updated": 1716228000000,
+          "update": 1716228000000,
+          "downloadALL": 11757473,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 10000077,
+          "name": "Better PvP",
+          "author": "crafter",
+          "uuid": "cd3ef9ea-62dd-11e6-b39e-002590a1379b",
+          "linkProject": "https://minecraft-inside.ru/mods/9171-better-pvp-mod.html",
+          "favorite": false,
+          "categories": [],
+          "picture": 162133,
+          "pictures": [
+            162134,
+            162136,
+            162137,
+            162135,
+            162138,
+            162140
+          ],
+          "lanName": "better-pvp",
+          "version": {
+            "id": 11001825,
+            "name": "21.3.0.2_Forge_1.12",
+            "updateDate": 1613163600000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "7b9527aed42db16fe39593699b850871cbb73562",
+              "size": 691628,
+              "path": "mods/BetterPvP_21.3.0.2_Forge_1.12.jar",
+              "url": "/mods/10000077/11001825/BetterPvP_21.3.0.2_Forge_1.12.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 918,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 31,
+            "name": "1.16.5"
+          },
+          "updated": 1613163600000,
+          "update": 1613163600000,
+          "downloadALL": 328702,
+          "available": true,
+          "parser": false,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 280647,
+          "name": "Perspective Mod Redux",
+          "author": "BoxOfFlex",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/perspective-mod-redux",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 635691,
+          "pictures": [
+            24206
+          ],
+          "lanName": "perspective-mod-redux",
+          "version": {
+            "id": 3116008,
+            "name": "1.12.2-0.0.5",
+            "updateDate": 1605681520000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "c27268fc43be37a06d3b957ca74318481c4ae86a",
+              "size": 981099,
+              "path": "mods/PerspectiveModRedux-1.12.2-0.0.5.jar",
+              "url": "/mods/280647/3116008/PerspectiveModRedux-1.12.2-0.0.5.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 110,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 49,
+            "name": "1.20.4"
+          },
+          "updated": 1624816800000,
+          "update": 1624816800000,
+          "downloadALL": 62074,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 357178,
+          "name": "MixinBootstrap",
+          "author": "lx_gaming",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/mixinbootstrap",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 146129,
+          "pictures": [],
+          "lanName": "mixinbootstrap",
+          "version": {
+            "id": 3437402,
+            "name": "_-1.1.0",
+            "updateDate": 1629749034000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 31,
+                "name": "1.16.5"
+              },
+              {
+                "id": 26,
+                "name": "1.15.2"
+              },
+              {
+                "id": 32,
+                "name": "1.17.1"
+              },
+              {
+                "id": 1,
+                "name": "1.12.2"
+              },
+              {
+                "id": 23,
+                "name": "1.14.4"
+              }
+            ],
+            "metadata": {
+              "sha1": "f9173708d3d2850ab8df778b9594b81cb94b1df8",
+              "size": 1119478,
+              "path": "mods/_MixinBootstrap-1.1.0.jar",
+              "url": "/mods/357178/3437402/_MixinBootstrap-1.1.0.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 290,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 32,
+            "name": "1.17.1"
+          },
+          "updated": 1629748980000,
+          "update": 1629748980000,
+          "downloadALL": 312120,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 580690,
+          "name": "Block Overlay Fix",
+          "author": "meldexun",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/block-overlay-fix",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            }
+          ],
+          "picture": 264855,
+          "pictures": [],
+          "lanName": "block-overlay-fix",
+          "version": {
+            "id": 3650166,
+            "name": "1.12.2-1.0.0",
+            "updateDate": 1644985260000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "e8cf85505a2439cbc3d2599ecafb5d12653b1453",
+              "size": 7809,
+              "path": "mods/BlockOverlayFix-1.12.2-1.0.0.jar",
+              "url": "/mods/580690/3650166/BlockOverlayFix-1.12.2-1.0.0.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 1489,
+              "name": "MixinBootstrap",
+              "gameEntityId": 357178,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1644985260000,
+          "update": 1644985260000,
+          "downloadALL": 13962,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 226447,
+          "name": "Resource Loader",
+          "author": "lumien231",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/resource-loader",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            }
+          ],
+          "picture": 787875,
+          "pictures": [],
+          "lanName": "resource-loader",
+          "version": {
+            "id": 2477566,
+            "name": "MC1.12.1-1.5.3",
+            "updateDate": 1504907172000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              },
+              {
+                "id": 2,
+                "name": "1.12.1"
+              },
+              {
+                "id": 3,
+                "name": "1.12"
+              }
+            ],
+            "metadata": {
+              "sha1": "d8c10e6e29df5f9bc51e468642d9b3cae5f2f8e4",
+              "size": 16612,
+              "path": "mods/ResourceLoader-MC1.12.1-1.5.3.jar",
+              "url": "/mods/226447/2477566/ResourceLoader-MC1.12.1-1.5.3.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 162,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1504818000000,
+          "update": 1504818000000,
+          "downloadALL": 100858,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 917726,
+          "name": "Hippo Keystrokes",
+          "author": "nostalgic_snyder nostalgic_snyder",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/hippo-keystrokes",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 552779,
+          "pictures": [
+            560203
+          ],
+          "lanName": "hippo-keystrokes",
+          "version": {
+            "id": 4798429,
+            "name": "keystrokeshippo-3.1-1.12.2",
+            "updateDate": 1697292547000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 3,
+                "name": "1.12"
+              },
+              {
+                "id": 2,
+                "name": "1.12.1"
+              },
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "8ac597a6a8e919b629f54d701ac7581876913339",
+              "size": 13107,
+              "path": "mods/keystrokeshippo-3.1-1.12.2.jar",
+              "url": "/mods/917726/4798429/keystrokeshippo-3.1-1.12.2.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 35,
+            "name": "1.18.2"
+          },
+          "updated": 1698688800000,
+          "update": 1698688800000,
+          "downloadALL": 25438,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        }
+      ],
+      "resourcePacks": [],
+      "maps": [],
+      "shaderpacks": [],
+      "gameVersionDTO": {
+        "id": 1,
+        "name": "1.12.2"
+      },
+      "minecraftVersionName": {
+        "id": 3000,
+        "name": "14.23.5.2859"
+      },
+      "id": -29618207055101,
+      "name": "1.0",
+      "available": false,
+      "minecraftVersionTypes": [
+        {
+          "id": 1,
+          "name": "forge"
+        }
+      ]
+    },
+    "userInstall": false,
+    "populateStatus": false,
+    "available": false,
+    "parser": false,
+    "totalComments": 0
+  },
+  "source": "local_version_repo",
+  "jar": "1.12.2",
+  "skinVersion": true
+}
